@@ -10,3 +10,21 @@ https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003199
 ### All the data and software needed to reproduce the results are at this Zenodo site referenced in the paper.
 https://zenodo.org/records/8029925 
 
+### If you would like to try this approach using the new SWOT gravity, the replacement files are at the following site.
+
+https://topex.ucsd.edu/pub/global_grav_1min_SWOT/prediction_files/ 
+
+
+### We started with the grav_on_topo_SWOT_01.img  gravity but that was updated with grav_on_topo_SWOT_02.img which has more data.  The gravity data are at the site 
+
+https://topex.ucsd.edu/pub/global_grav_1min_SWOT/
+
+
+### As discussed below, the rms evaluation will use unique GEBCO soundings not available in the SRTM ship data.  In addition we will use seamount summits depths published in this paper.
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002331 
+
+
+### The summit depth file is here.
+
+https://topex.ucsd.edu/pub/global_grav_1min_SWOT/prediction_files/summit.xyd 
